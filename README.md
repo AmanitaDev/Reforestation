@@ -1,4 +1,5 @@
-Custom game template for AmanitaDev ...IN DEVELOPMENT...
+Reforestation
+
 Included systems:
 * Audio
 * Input
@@ -17,3 +18,4 @@ Used Technologies:
 * JSON
 * Scriptable objects
 * ...
+
